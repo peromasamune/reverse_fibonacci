@@ -1,273 +1,0 @@
-TFibonaccitab
-v7
-r0
-t299711844.186366
-cCheck dependencies
-cProcessInfoPlistFile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Info.plist" Fibonaccitab-Info.plist
-cCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib"
-cCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib"
-cCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib"
-cProcessPCH /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch.gch Fibonaccitab_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/main.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FibonaccitabAppDelegate.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FirstViewController.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab" normal i386
-cGenerateDSYMFile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app.dSYM" "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab"
-cTouch "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C206C340000000000000132
-t1277193268
-s306
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BFDFE39000000000027C7D0
-t1274936889
-s2607056
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BFDFE7C000000000029D5D0
-t1274936956
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BFDFE6E0000000000001466
-t1274936942
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C0470BB00000000000009CD
-t1275359419
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C0471620000000001D47210
-t1275359586
-s30700048
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.h
-c000000004C2D052200000000000001E0
-t1278018850
-s480
-i<UIKit/UIKit.h>
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m
-c000000004C2D05220000000000000C41
-t1278018850
-s3137
-i"FibonaccitabAppDelegate.h"
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.h
-c000000004C2D052200000000000000E7
-t1278018850
-s231
-i<UIKit/UIKit.h>
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m
-c000000004C2D052200000000000005AE
-t1278018850
-s1454
-i"FirstViewController.h"
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Fibonaccitab_Prefix.pch
-c000000004C2D052200000000000000C1
-t1278018850
-s193
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib
-c000000004C2D052200000000000049D6
-t1278018850
-s18902
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib
-c000000004C2D05220000000000006442
-t1278018850
-s25666
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib
-c000000004C2D052200000000000049D4
-t1278018850
-s18900
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app
-t1278019044
-s272
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app.dSYM
-t1278019044
-s102
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab
-t1278019044
-s17340
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/FirstView.nib
-t1278019043
-s1707
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Info.plist
-t1278019042
-s611
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/MainWindow.nib
-t1278019042
-s1699
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/PkgInfo
-t1278019042
-s8
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/SecondView.nib
-t1278019042
-s1706
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/Fibonaccitab.LinkFileList
-c000000004C2D05E200000000000001D8
-t1278019042
-s472
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FibonaccitabAppDelegate.o
-t1278019044
-s51412
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FirstViewController.o
-t1278019044
-s34384
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/main.o
-t1278019044
-s6332
-
-N/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m
-c000000004C2D05220000000000000162
-t1278018850
-s354
-i<UIKit/UIKit.h>
-
-N/var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch.gch
-t1278019043
-s15232016
-
-NFibonaccitab-Info.plist
-c000000004C2D0522000000000000038D
-t1278018850
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies299711842#299711842#0(0"0(0#1#0"8609057632#0"0#
-
-CCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FibonaccitabAppDelegate.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s299711844.017609
-e299711844.100227
-r1
-xCompileC
-xbuild/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FibonaccitabAppDelegate.o
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m299711844#299711844#0(0"0(0#0#86"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m8602455840#2223"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-generated-files.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-own-target-headers.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-all-target-headers.hmap" -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-project-headers.hmap" "-F/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources/i386" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources" -include /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch -c "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FibonaccitabAppDelegate.m" -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FibonaccitabAppDelegate.o"0#
-
-CCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FirstViewController.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s299711844.078046
-e299711844.137396
-r1
-xCompileC
-xbuild/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FirstViewController.o
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m299711844#299711844#0(0"0(0#0#82"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m8606904288#2215"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-generated-files.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-own-target-headers.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-all-target-headers.hmap" -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-project-headers.hmap" "-F/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources/i386" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources" -include /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch -c "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Classes/FirstViewController.m" -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/FirstViewController.o"0#
-
-CCompileC build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/main.o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s299711844.016219
-e299711844.077935
-r1
-xCompileC
-xbuild/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/main.o
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m299711844#299711844#0(0"0(0#0#59"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m8606769856#2177"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-generated-files.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-own-target-headers.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-all-target-headers.hmap" -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-project-headers.hmap" "-F/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources/i386" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources" -include /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch -c "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/main.m" -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib"
-s299711842.699304
-e299711843.179804
-r1
-xCompileXIB
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib
-lSLF07#2@24"CompileXIB FirstView.xib299711842#299711843#0(0"0(0#0#66"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib8609118528#621"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/FirstView.nib" "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/FirstView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib"
-s299711842.251055
-e299711842.699205
-r1
-xCompileXIB
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib299711842#299711842#0(0"0(0#0#67"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib8608137376#623"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/MainWindow.nib" "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CCompileXIB "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib"
-s299711842.251744
-e299711842.732290
-r1
-xCompileXIB
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib
-lSLF07#2@25"CompileXIB SecondView.xib299711842#299711842#0(0"0(0#0#67"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib8607649152#623"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/SecondView.nib" "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/SecondView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
-
-CGenerateDSYMFile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app.dSYM" "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab"
-s299711844.166752
-e299711844.183386
-r1
-xGenerateDSYMFile
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app.dSYM
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab
-lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Fibonaccitab.app.dSYM build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab299711844#299711844#0(0"0(0#0#110"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab8608934560#446"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab" -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app.dSYM"0#
-
-CLd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab" normal i386
-s299711844.137498
-e299711844.166633
-r1
-xLd
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab
-xnormal
-xi386
-lSLF07#2@115"Link /Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab299711844#299711844#0(0"0(0#0#0"8602432032#1005"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" "-F/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" -filelist "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Objects-normal/i386/Fibonaccitab.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Fibonaccitab"0#
-
-CProcessInfoPlistFile "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Info.plist" Fibonaccitab-Info.plist
-s299711842.247134
-e299711842.250970
-r1
-xProcessInfoPlistFile
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Info.plist
-xFibonaccitab-Info.plist
-lSLF07#2@31"Process Fibonaccitab-Info.plist299711842#299711842#0(0"0(0#0#76"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Fibonaccitab-Info.plist8601965664#542"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Fibonaccitab-Info.plist -genpkginfo "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app/Info.plist"0#
-
-CProcessPCH /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch.gch Fibonaccitab_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s299711843.179932
-e299711844.016025
-r1
-xProcessPCH
-x/var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch.gch
-xFibonaccitab_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@34"Precompile Fibonaccitab_Prefix.pch299711843#299711844#0(0"0(0#0#76"/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Fibonaccitab_Prefix.pch8608510848#2048"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-generated-files.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-own-target-headers.hmap" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-all-target-headers.hmap" -iquote "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/Fibonaccitab-project-headers.hmap" "-F/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources/i386" "-I/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Fibonaccitab.build/Debug-iphonesimulator/Fibonaccitab.build/DerivedSources" -c "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/Fibonaccitab_Prefix.pch" -o /var/folders/Yk/Yk5KKZkhHdOcSFxAHg1NgU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fibonaccitab_Prefix-hdswkbgidtxhrugntchbuojrokce/Fibonaccitab_Prefix.pch.gch0#
-
-CTouch "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app"
-s299711844.183481
-e299711844.186324
-r1
-xTouch
-x/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app
-lSLF07#2@103"Touch /Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app299711844#299711844#0(0"0(0#0#0"8608638112#315"    cd "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Data HD/project/Xcodeworkspace/Fibonaccitab/build/Debug-iphonesimulator/Fibonaccitab.app"0#
-
